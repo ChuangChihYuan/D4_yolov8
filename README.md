@@ -2,6 +2,8 @@
 
 測試影片:
 
+D4_yolov8.mp4
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/rI1ehBqyFAs/0.jpg)](https://www.youtube.com/watch?v=rI1ehBqyFAs "D4 yolov8")
 
 
