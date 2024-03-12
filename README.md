@@ -2,6 +2,8 @@
 
 測試影片:
 
+![Alt text](https://raw.githubusercontent.com/ChuangChihYuan/D4_yolov8/main/assets/137271365/D4_yolov8.mp4)
+
 ![Alt text](D4_yolov8.mp4)
 
 
